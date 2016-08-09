@@ -1,0 +1,14 @@
+#profilepic {
+	width: 256px;
+	border-radius: 50%;
+}
+
+#mathsGame {
+	height: 260px; 
+	width: 100%
+}
+
+#fruitsGame {
+	height: 260px; 
+	width: 100%
+}
