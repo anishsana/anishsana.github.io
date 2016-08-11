@@ -2,3 +2,35 @@
 	width: 256px;
 	border-radius: 50%;
 }
+
+.progress-bar {
+	background-color: #2C3E50;
+	border-radius: 5px;
+	height: 30px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#html {
+	width: 100%;
+}
+
+#css {
+	width: 100%;
+}
+
+#bootstrap {
+	width: 90%;
+}
+
+#javascript {
+	width: 90%;
+}
+
+#angularjs {
+	width: 70%;
+}
+
+#jquery {
+	width: 80%;
+}
