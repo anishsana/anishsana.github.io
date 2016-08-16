@@ -16,11 +16,11 @@
 }
 
 #css {
-	width: 100%;
+	width: 90%;
 }
 
 #bootstrap {
-	width: 90%;
+	width: 80%;
 }
 
 #javascript {
@@ -28,9 +28,33 @@
 }
 
 #angularjs {
+	width: 60%;
+}
+
+#java {
+	width: 100%;
+}
+
+#php {
+	width: 80%;
+}
+
+#codeigniter {
 	width: 70%;
 }
 
-#jquery {
+#aws {
+	width: 100%;
+}
+
+#rest {
+	width: 70%;
+}
+
+#tomcat {
 	width: 80%;
+}
+
+#apache {
+	width: 90%;
 }
